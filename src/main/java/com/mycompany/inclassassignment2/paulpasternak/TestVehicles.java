@@ -10,8 +10,7 @@ package com.mycompany.inclassassignment2.paulpasternak;
  */
 public class TestVehicles {
     
-    //Vehicle car1 = new Vehicle("car", "regular", "black");
-    
+    //Changes made
 
     public static void main(String[] args) {
         Vehicle car = new Car("Toyota", "Gasoline", "Red");
