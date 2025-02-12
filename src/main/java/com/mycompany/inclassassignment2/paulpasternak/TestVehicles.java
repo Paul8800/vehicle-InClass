@@ -12,6 +12,8 @@ public class TestVehicles {
     
     //Changes made
 
+    //More changes done in GitHub
+
     public static void main(String[] args) {
         Vehicle car = new Car("Toyota", "Gasoline", "Red");
         Vehicle truck = new Truck("Ford", "Diesel", "Blue", 8);
